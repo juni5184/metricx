@@ -19,7 +19,7 @@ import json
 import os
 
 import datasets
-from metricx23 import models
+from metricx.metricx23 import models
 import torch
 import transformers
 
